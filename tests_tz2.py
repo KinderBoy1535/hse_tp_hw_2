@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from hse_tp_hw_2.tz2 import _max, _min, _mult, _sum, _fca
+from tz2 import _max, _min, _mult, _sum, _fca
 
 
 class Test1(TestCase):
