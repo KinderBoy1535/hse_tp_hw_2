@@ -1,5 +1,5 @@
 from time import time
-from hse_tp_hw_2.tz2 import _max, _min, _sum, _mult
+from tz2 import _max, _min, _sum, _mult
 from random import randint
 import matplotlib.pyplot as plt
 
